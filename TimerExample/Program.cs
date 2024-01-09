@@ -1,4 +1,4 @@
-﻿//Console.WriteLine("Hello, World!");
+﻿//Console.WriteLine("Hello, OS");
 using System.Runtime.ConstrainedExecution;
 using Timer = System.Timers.Timer;
 
